@@ -6,9 +6,9 @@ import Expense from './Components/Expense'
 const expenses = [
   {id:1,name:"iphone",price:996},
   {id:1,name:"iphone",price:996},
-  {id:1,name:"iphone",price:996},
-  {id:1,name:"iphone",price:996},
-  {id:1,name:"iphone",price:996}
+  {id:1,name:"hatdog",price:996},
+  {id:1,name:"hahahdb",price:996},
+  {id:1,name:"fgfg",price:996}
 ]
 
 function App() {

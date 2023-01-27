@@ -8,9 +8,9 @@ const Expense = (props) => {
             <div className="text">
                 <b>{props.name} - ${props.price}</b>
             </div>
-            <div>
-                <button>Delete</button>
-            </div>
+            {/* <div>
+                <button>Click Me</button>
+            </div> */}
 
         </div>
     )
